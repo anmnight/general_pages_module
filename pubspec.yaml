@@ -42,6 +42,11 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+
+  assets:
+     - images/welcome1.jpg
+     - images/welcome2.jpg
+
   # To add Flutter specific assets to your application, add an assets section, 
   # like this:
   # assets:
